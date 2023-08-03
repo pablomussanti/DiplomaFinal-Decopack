@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Bienvenido al manual de instalacion del sistema gestion de ventas.
+
+
+Para iniciar la instalacion inicie el ejectuable setup. Siga los pasos y disfrute del programa.
+
+
+•	Requisitos Minimos del sistema para la utilizacion del software:
+o	Sistema Operativo: Windows 7 X64 o superior.
+o	RAM: 16 GB de memoria RAM.
+o	Procesador: Intel core I5 / AMD A8 o superior. 
+o	Almacenamiento: 600 GB de espacio en disco.
+
+Para mayor informacion sobre como utilizar el programa con F12 al inicio se abre el manual de usuario.
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------

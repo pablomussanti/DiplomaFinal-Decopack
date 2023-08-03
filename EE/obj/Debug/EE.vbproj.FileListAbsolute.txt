@@ -1,0 +1,135 @@
+C:\Users\Pablo\source\repos\TPfinal\EE\bin\Debug\EE.dll
+C:\Users\Pablo\source\repos\TPfinal\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\source\repos\TPfinal\EE\bin\Debug\EE.xml
+C:\Users\Pablo\source\repos\TPfinal\EE\obj\Debug\EE.vbprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\TPfinal\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\source\repos\TPfinal\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\TPfinal\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\TPfinal\EE\obj\Debug\EE.dll
+C:\Users\Pablo\source\repos\TPfinal\EE\obj\Debug\EE.xml
+C:\Users\Pablo\source\repos\TPfinal\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.pdb
+H:\TP DIPLOMA FINAL\TPfinal\EE\bin\Debug\EE.dll
+H:\TP DIPLOMA FINAL\TPfinal\EE\bin\Debug\EE.pdb
+H:\TP DIPLOMA FINAL\TPfinal\EE\bin\Debug\EE.xml
+H:\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+H:\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.Resources.resources
+H:\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+H:\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.dll
+H:\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.xml
+H:\TP DIPLOMA FINAL\TPfinal\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\bin\Debug\EE.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\bin\Debug\EE.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\bin\Debug\EE.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.Resources.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\bin\Debug\EE.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\bin\Debug\EE.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\bin\Debug\EE.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.Resources.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\obj\Debug\EE.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\obj\Debug\EE.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TPdiploma\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TPdiploma\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TPdiploma\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TPdiploma\EE\obj\Debug\EE.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TPdiploma\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\TPdiploma\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TPdiploma\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TPdiploma\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\TPdiploma\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\TPdiploma\EE\obj\Debug\EE.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\EE\bin\Debug\EE.dll
+C:\Users\navegador\Desktop\TPdiplomav2\EE\bin\Debug\EE.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\EE\bin\Debug\EE.xml
+C:\Users\navegador\Desktop\TPdiplomav2\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\TPdiplomav2\EE\obj\Debug\EE.Resources.resources
+C:\Users\navegador\Desktop\TPdiplomav2\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\TPdiplomav2\EE\obj\Debug\EE.dll
+C:\Users\navegador\Desktop\TPdiplomav2\EE\obj\Debug\EE.xml
+C:\Users\navegador\Desktop\TPdiplomav2\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\EE\obj\Debug\EE.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\EE\obj\Debug\EE.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\EE\obj\Debug\EE.pdb

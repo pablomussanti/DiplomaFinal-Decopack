@@ -1,0 +1,132 @@
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\TestingSucursal.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\TestingSucursal.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\TestingSucursal.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\obj\Debug\TestingSucursal.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\obj\Debug\TestingSucursal.Resources.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\obj\Debug\TestingSucursal.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\obj\Debug\TestingSucursal.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\obj\Debug\TestingSucursal.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\obj\Debug\TestingSucursal.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\obj\Debug\TestingSucursal.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\obj\Debug\TestingSucursal.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\TestingSucursal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Sistema Gestion De Ventas.chm
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\TestingSucursal.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\TestingSucursal.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\TestingSucursal.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\obj\Debug\TestingSucursal.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\obj\Debug\TestingSucursal.Resources.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\obj\Debug\TestingSucursal.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\obj\Debug\TestingSucursal.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\obj\Debug\TestingSucursal.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\obj\Debug\TestingSucursal.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\obj\Debug\TestingSucursal.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\obj\Debug\TestingSucursal.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\TestingSucursal\bin\Debug\TestingSucursal.dll.config
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Sistema Gestion De Ventas.chm
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Sistema Gestion de Ventas Manual de usuario.chm
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\App.config
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\TestingSucursal.dll.config
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\TestingSucursal.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\TestingSucursal.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\TestingSucursal.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\obj\Debug\TestingSucursal.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\obj\Debug\TestingSucursal.Resources.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\obj\Debug\TestingSucursal.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\obj\Debug\TestingSucursal.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\obj\Debug\TestingSucursal.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\obj\Debug\TestingSucursal.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\obj\Debug\TestingSucursal.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\TestingSucursal\obj\Debug\TestingSucursal.pdb

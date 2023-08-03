@@ -1,0 +1,303 @@
+C:\Users\Pablo\source\repos\TPfinal\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\source\repos\TPfinal\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\source\repos\TPfinal\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\source\repos\TPfinal\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\source\repos\TPfinal\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\source\repos\TPfinal\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\source\repos\TPfinal\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\source\repos\TPfinal\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\source\repos\TPfinal\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\source\repos\TPfinal\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\TPfinal\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\source\repos\TPfinal\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\TPfinal\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\TPfinal\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\source\repos\TPfinal\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\source\repos\TPfinal\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\source\repos\TPfinal\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.vbproj.CopyComplete
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\MPP.dll
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\MPP.pdb
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\MPP.xml
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\DAL.dll
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\EE.dll
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\Servicios.dll
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\DAL.pdb
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\DAL.xml
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\EE.pdb
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\EE.xml
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\Servicios.pdb
+H:\TP DIPLOMA FINAL\TPfinal\MPP\bin\Debug\Servicios.xml
+H:\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.vbprojResolveAssemblyReference.cache
+H:\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.Resources.resources
+H:\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.vbproj.GenerateResource.Cache
+H:\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.dll
+H:\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.xml
+H:\TP DIPLOMA FINAL\TPfinal\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\MPP.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\MPP.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\MPP.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\DAL.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\EE.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\Servicios.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\DAL.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\DAL.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\EE.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\EE.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\Servicios.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\Servicios.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbprojResolveAssemblyReference.cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.Resources.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbproj.GenerateResource.Cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\MPP.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\MPP.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\MPP.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\EE.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Servicios.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\DAL.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\EE.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\EE.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Servicios.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Servicios.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\MPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TPdiploma\MPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TPdiploma\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TPdiploma\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\TPdiploma\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TPdiploma\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TPdiploma\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TPdiploma\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TPdiploma\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TPdiploma\MPP\obj\Debug\MPP.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\MPP.dll
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\MPP.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\MPP.xml
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\EE.dll
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\Servicios.dll
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\DAL.xml
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\EE.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\EE.xml
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\Servicios.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\Servicios.xml
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\obj\Debug\MPP.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\obj\Debug\MPP.vbproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\obj\Debug\MPP.dll
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\obj\Debug\MPP.xml
+C:\Users\navegador\Desktop\TPdiplomav2\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\obj\Debug\MPP.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\obj\Debug\MPP.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\obj\Debug\MPP.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\obj\Debug\MPP.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\MPP\obj\Debug\MPP.pdb

@@ -1,0 +1,13 @@
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\bin\Debug\BLL.test.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\bin\Debug\BLL.test.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\bin\Debug\BLL.test.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\obj\Debug\BLL.test.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\obj\Debug\BLL.test.Resources.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\obj\Debug\BLL.test.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\obj\Debug\BLL.test.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\obj\Debug\BLL.test.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\obj\Debug\BLL.test.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\obj\Debug\BLL.test.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL.test\obj\Debug\BLL.test.pdb

@@ -1,0 +1,348 @@
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\source\repos\TPfinal\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\source\repos\TPfinal\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\TPfinal\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\source\repos\TPfinal\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\TPfinal\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\TPfinal\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\source\repos\TPfinal\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\source\repos\TPfinal\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\source\repos\TPfinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.vbproj.CopyComplete
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\BLL.dll
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\BLL.pdb
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\BLL.xml
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\EE.dll
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\MPP.dll
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\Servicios.dll
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\DAL.dll
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\EE.pdb
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\EE.xml
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\MPP.pdb
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\MPP.xml
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\Servicios.pdb
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\Servicios.xml
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\DAL.pdb
+H:\TP DIPLOMA FINAL\TPfinal\BLL\bin\Debug\DAL.xml
+H:\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+H:\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.Resources.resources
+H:\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+H:\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.dll
+H:\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.xml
+H:\TP DIPLOMA FINAL\TPfinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\BLL.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\BLL.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\BLL.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\EE.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\MPP.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\Servicios.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\DAL.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\EE.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\EE.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\MPP.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\MPP.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\Servicios.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\Servicios.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\DAL.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\DAL.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.Resources.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\BLL.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\BLL.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\BLL.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\EE.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\MPP.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Servicios.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\EE.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\EE.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\MPP.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\MPP.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Servicios.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Servicios.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\DAL.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TPdiploma\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TPdiploma\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TPdiploma\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\TPdiploma\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TPdiploma\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TPdiploma\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TPdiploma\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TPdiploma\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TPdiploma\BLL\obj\Debug\BLL.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\BLL.dll
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\BLL.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\BLL.xml
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\EE.dll
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\MPP.dll
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\Servicios.dll
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\EE.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\EE.xml
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\MPP.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\MPP.xml
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\Servicios.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\Servicios.xml
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\DAL.xml
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\obj\Debug\BLL.dll
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\obj\Debug\BLL.xml
+C:\Users\navegador\Desktop\TPdiplomav2\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\BLL\obj\Debug\BLL.pdb

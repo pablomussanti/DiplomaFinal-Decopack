@@ -1,0 +1,767 @@
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\source\repos\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.exe
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.xml
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.pdb
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.xml
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\BLL.dll
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\EE.dll
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\Servicios.dll
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\MPP.dll
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\DAL.dll
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\BLL.pdb
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\BLL.xml
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\EE.pdb
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\EE.xml
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\Servicios.pdb
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\Servicios.xml
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\MPP.pdb
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\MPP.xml
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\DAL.pdb
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\DAL.xml
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+H:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.Cache
+I:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+I:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.exe
+I:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.xml
+I:\TP DIPLOMA FINAL\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.exe
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\BLL.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\EE.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\Servicios.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\MPP.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\DAL.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\BLL.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\BLL.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\EE.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\EE.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\Servicios.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\Servicios.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\MPP.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\MPP.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\DAL.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\DAL.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.Cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\itextsharp.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\EE.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\itextsharp.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\EE.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\itextsharp.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\Sistema Gestion De Ventas.chm
+C:\Users\Pablo\Desktop\TP diploma 3 entrega\WindowsApp1\bin\Debug\Sistema Gestion de Ventas Manual de usuario.chm
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Sistema Gestion De Ventas.chm
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Sistema Gestion de Ventas Manual de usuario.chm
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Sistema Gestion De Ventas.chm
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Sistema Gestion de Ventas Manual de usuario.chm
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\Sistema Gestion De Ventas.chm
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\Sistema Gestion de Ventas Manual de usuario.chm
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\obj\Debug\WindowsApp1.Conectado.resources
+C:\Users\Pablo\Desktop\TPdiploma\WindowsApp1\bin\Debug\App.config
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\Sistema Gestion De Ventas.chm
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\Sistema Gestion de Ventas Manual de usuario.chm
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\App.config
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\EE.dll
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\itextsharp.dll
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\EE.xml
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\itextsharp.xml
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Conectado.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\navegador\Desktop\TPdiplomav2\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\Sistema Gestion De Ventas.chm
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\App.config
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\Servicios.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\Servicios.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\Servicios.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\UI.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Backup.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Bitacora.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.CCproducto.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Comprador.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Conectado.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Deposito.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Detalleventa.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Devolucion.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Empleadodeposito.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Empleadosucursal.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Envioasignar.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Enviover.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Login.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Idioma.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Menu.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Palabraidioma.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Permisos.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Producto.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Proveedor.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Reclamo.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Renovaciondeposito.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Reposicion.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Restore.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Stockdeposito.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Stocksucursal.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Sucursal.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Usuario.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Venta.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\UI.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\UI.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\UI.vbproj.CopyComplete
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\obj\Debug\WindowsApp1.Grafico.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\WindowsApp1\bin\Debug\Sistema Gestion De Ventas Final.chm

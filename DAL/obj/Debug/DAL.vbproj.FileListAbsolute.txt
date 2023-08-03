@@ -1,0 +1,135 @@
+C:\Users\Pablo\source\repos\TPfinal\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\source\repos\TPfinal\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\source\repos\TPfinal\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\source\repos\TPfinal\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\TPfinal\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\source\repos\TPfinal\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\TPfinal\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\TPfinal\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\source\repos\TPfinal\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\source\repos\TPfinal\DAL\obj\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.pdb
+H:\TP DIPLOMA FINAL\TPfinal\DAL\bin\Debug\DAL.dll
+H:\TP DIPLOMA FINAL\TPfinal\DAL\bin\Debug\DAL.pdb
+H:\TP DIPLOMA FINAL\TPfinal\DAL\bin\Debug\DAL.xml
+H:\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+H:\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.Resources.resources
+H:\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+H:\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.dll
+H:\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.xml
+H:\TP DIPLOMA FINAL\TPfinal\DAL\obj\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\bin\Debug\DAL.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\bin\Debug\DAL.pdb
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\bin\Debug\DAL.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.Resources.resources
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.dll
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.xml
+H:\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Diploma TP FINAL ACTUALIZADO\TP FINAL DIPLOMA ACTUALIZADO\TPfinal\DAL\obj\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\bin\Debug\DAL.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.dll
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.xml
+C:\Users\navegador\Desktop\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\Desktop\tp actualizado 3\tp actualizado 2\TP diploma negocio terminado\TPfinal\DAL\obj\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias finales\Diploma\TP\TP DIPLOMA FINAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TPdiploma\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TPdiploma\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\TPdiploma\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TPdiploma\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\TPdiploma\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\Desktop\TPdiploma\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\TPdiploma\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\TPdiploma\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\Desktop\TPdiploma\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\Desktop\TPdiploma\DAL\obj\Debug\DAL.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\DAL\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\TPdiplomav2\DAL\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\TPdiplomav2\DAL\bin\Debug\DAL.xml
+C:\Users\navegador\Desktop\TPdiplomav2\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\TPdiplomav2\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\navegador\Desktop\TPdiplomav2\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\TPdiplomav2\DAL\obj\Debug\DAL.dll
+C:\Users\navegador\Desktop\TPdiplomav2\DAL\obj\Debug\DAL.xml
+C:\Users\navegador\Desktop\TPdiplomav2\DAL\obj\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\DAL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\DAL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\DAL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\DAL\obj\Debug\DAL.dll
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\DAL\obj\Debug\DAL.xml
+C:\Users\Pablo\Desktop\ULTIMO SISTEMA\TPdiplomav3\DAL\obj\Debug\DAL.pdb
