@@ -1,4 +1,0 @@
-C:\Users\Pablo\source\repos\TPfinal\Acceso\obj\Debug\Acceso.vbprojAssemblyReference.cache
-C:\Users\Pablo\source\repos\TPfinal\Acceso\obj\Debug\Acceso.Resources.resources
-C:\Users\Pablo\source\repos\TPfinal\Acceso\obj\Debug\Acceso.vbproj.GenerateResource.cache
-C:\Users\Pablo\source\repos\TPfinal\Acceso\obj\Debug\Acceso.vbproj.CoreCompileInputs.cache
